@@ -7,7 +7,7 @@ I wrote it when i was 12 yr old.
 Thanks for using.
 
 # Usage
-In the var "password_to_hack" insert a random password you want discover.
+IMPORTANT: In the var "password_to_hack" insert a random password you want discover.
 
     GUIDE:
 
