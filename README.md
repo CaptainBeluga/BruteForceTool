@@ -11,7 +11,7 @@ In the var "password_to_hack" insert a random password you want discover.
 
     GUIDE:
 
-    1. First find a big wordlist (I left you a simple file with common passwords, but you can use every txt files)
+    1. First find a big wordlist (you'll find a simple wordlist with some of the common passwords in 2021)
 
     2. The var "password_list" must to be equal to wordlist name (including extension)
     
